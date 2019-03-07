@@ -1,0 +1,10 @@
+.ajax {
+    margin: auto;
+    margin-top: 25px;
+    width: 30%;
+    border: 9px ridge #005800;
+    padding: 10px;
+    text-align: center;
+    background-color: #ffffcc;
+    border-radius: 25px;
+}
